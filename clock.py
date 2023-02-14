@@ -2,6 +2,8 @@
 """
 Created on Tue Feb 14 16:11:03 2023
 
+Pyhtonda raqamli soat yaratish
+
 @author: DAVRON
 """
 
