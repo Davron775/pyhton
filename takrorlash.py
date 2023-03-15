@@ -26,3 +26,6 @@ if tarjima==None:
     print("Bunday so'z mavjud emas")
 else:
     print(f"{kalit.title()} so'zi {tarjima} deb tarjima qilinadi")
+    
+    
+    
