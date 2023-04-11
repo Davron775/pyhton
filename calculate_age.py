@@ -22,3 +22,5 @@ birth_day = input("Tug'ulgan kuningizni kiriting:  ")
 # calculate age using user input and print result
 age = calculate_age(birth_year, birth_month, birth_day)
 print("Sizning tugulganingizga {} yil, {} oy, va {} kun bo'ldi.".format(age.days // 365, (age.days % 365) // 30, (age.days % 365) % 30))
+
+
